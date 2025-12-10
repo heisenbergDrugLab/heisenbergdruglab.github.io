@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[16976,["/_next/static/chunks/2455189be63be4dc.js","/_next/static/chunks/c45141d185a8aea5.js"],"ViewportBoundary"]
+4:I[16976,["/_next/static/chunks/2455189be63be4dc.js","/_next/static/chunks/c45141d185a8aea5.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[32683,["/_next/static/chunks/2455189be63be4dc.js","/_next/static/chunks/c45141d185a8aea5.js"],"IconMark"]
+0:{"buildId":"fsKI1T2zFVb8COQ1oI6kv","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Agency | Ultra-Premium Digital Solutions"}],["$","meta","1",{"name":"description","content":"Crafting Digital Excellence. Where Innovation Meets Elegance."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L7","3",{}]]
