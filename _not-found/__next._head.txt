@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+2:I[41924,["/_next/static/chunks/26193aad942cd2f2.js","/_next/static/chunks/ee3031d8c41e9e98.js"],"ViewportBoundary"]
+4:I[41924,["/_next/static/chunks/26193aad942cd2f2.js","/_next/static/chunks/ee3031d8c41e9e98.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-7:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-0:{"buildId":"sTPekq6rfOPmT8lhHK-KV","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+7:I[16462,["/_next/static/chunks/26193aad942cd2f2.js","/_next/static/chunks/ee3031d8c41e9e98.js"],"IconMark"]
+0:{"buildId":"Iz97ISOxxPWEH2v7p1z9c","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Voxel | Ultra-Premium Digital Solutions"}],["$","meta","1",{"name":"description","content":"Crafting Digital Excellence. Where Innovation Meets Elegance."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.e3d3b9ae.svg","sizes":"any","type":"image/svg+xml"}],["$","$L7","3",{}]]
