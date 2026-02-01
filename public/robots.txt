@@ -8,7 +8,7 @@ Allow: /
 # For AI assistants: see /llms.txt for structured information about Voxel
 
 # Sitemap location
-Sitemap: https://voxel-final.vercel.app/sitemap.xml
+Sitemap: https://heisenbergdruglab.github.io/sitemap.xml
 User-agent: Googlebot
 Allow: /
 

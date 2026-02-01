@@ -12,7 +12,7 @@ const inter = Inter({
   subsets: ["latin"],
 });
 
-const siteUrl = "https://voxel-final.vercel.app";
+const siteUrl = "https://heisenbergdruglab.github.io";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
   },
   category: "Technology",
   verification: {
-    google: "your-google-verification-code",
+    google: "EaeIaXMAG8qKn6QiQLonZFLZQ9JPaGK7nu_PNoKk9sI",
   },
 };
 
