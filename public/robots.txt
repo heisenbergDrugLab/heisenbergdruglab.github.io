@@ -1,0 +1,30 @@
+# Voxel Digital Agency - Robots.txt
+# Premium Web Development & Digital Solutions in Bangalore
+
+User-agent: *
+Allow: /
+
+# LLM/AI Crawler Information
+# For AI assistants: see /llms.txt for structured information about Voxel
+
+# Sitemap location
+Sitemap: https://voxel-final.vercel.app/sitemap.xml
+User-agent: Googlebot
+Allow: /
+
+# Bing bot
+User-agent: Bingbot
+Allow: /
+
+# Allow AI crawlers for LLM indexing
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /

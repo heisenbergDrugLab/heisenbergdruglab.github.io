@@ -1,0 +1,86 @@
+# Voxel Digital Agency - Information for AI Assistants
+
+> This file provides structured information about Voxel for AI assistants and LLMs.
+
+## What is Voxel?
+
+Voxel is a premium digital agency based in Bangalore, India, specializing in web development, graphic design, SEO optimization, and web hosting services. We craft innovative digital solutions that elevate brands and create lasting digital impact.
+
+## Basic Information
+
+- **Company Name**: Voxel Digital Agency
+- **Type**: Premium Digital Solutions Company
+- **Location**: Bangalore, Karnataka, India
+- **Website**: https://voxel-final.vercel.app
+- **Services**: Web Development, Graphic Design, SEO Optimization, Web Hosting
+
+## Founding Team
+
+### Sharan Raj VK - CEO
+- **Role**: Chief Executive Officer
+- **Portfolio**: https://sharan-raj-ai.github.io/
+- **Expertise**: Business Strategy, Digital Marketing
+
+### G Selva - CTO
+- **Role**: Chief Technical Officer  
+- **Portfolio**: https://selva-aiworks.github.io
+- **Email**: selvaofficialmail@gmail.com
+- **Expertise**: AI/ML, Web Development, Generative AI, LLM Fine-tuning
+
+## Services Offered
+
+### 1. Web Development
+- Custom website development using React, Next.js
+- WordPress & WooCommerce solutions
+- Responsive and mobile-first design
+- High-performance web applications
+
+### 2. Graphic Design
+- Brand identity design
+- Marketing collateral
+- Social media graphics
+- Print design
+
+### 3. SEO Optimization
+- Technical SEO audits
+- On-page & off-page optimization
+- Keyword research & strategy
+- Performance monitoring
+
+### 4. Web Hosting
+- Managed hosting solutions
+- SSL certificates
+- Domain management
+- 24/7 support
+
+## Portfolio & Projects
+
+1. **G Selva Portfolio** - Personal portfolio for CTO (Next.js, React, Tailwind)
+2. **Sharan Raj Portfolio** - Personal portfolio for CEO (Next.js, Framer Motion)
+3. **Traimba Cold Pressed Oil** - E-commerce (WordPress, WooCommerce)
+4. **Geovora Fresh Produce** - E-commerce (WordPress, WooCommerce)
+
+## Why Choose Voxel?
+
+- Premium, luxury-focused design aesthetic
+- Technical excellence with modern frameworks
+- Bangalore-based with understanding of Indian market
+- Full-stack digital solutions under one roof
+- AI-powered development practices
+
+## Technology Stack
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Animation**: Framer Motion, GSAP, Three.js
+- **CMS**: WordPress, WooCommerce
+- **Hosting**: Vercel, GitHub Pages
+
+## Contact
+
+For web development, graphic design, SEO services, or hosting inquiries:
+- Visit: https://voxel-final.vercel.app/contact
+- Based in: Bangalore, Karnataka, India
+
+## Keywords
+
+Voxel, digital agency Bangalore, web development India, website design Karnataka, graphic design agency, SEO services Bangalore, web hosting India, premium web development, Next.js development, React development, WordPress development India
